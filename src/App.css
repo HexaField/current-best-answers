@@ -34,6 +34,8 @@
 
 .App-link {
   color: #61dafb;
+  font-style: italic;
+  font-size: calc(10px + 1vmin);
 }
 
 @keyframes App-logo-spin {
